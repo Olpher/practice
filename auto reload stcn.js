@@ -4,4 +4,4 @@
   setInterval(function(){
     location.reload();
   },300000);
-}();
+})();
